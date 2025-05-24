@@ -1,0 +1,1 @@
+# macd-indicator-analysis
